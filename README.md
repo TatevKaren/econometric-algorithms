@@ -1,4 +1,6 @@
 # Econometrics
+# Event Study Analysis
+
 File name: EventStudy.do
 Programming Language: STATA
 
@@ -9,3 +11,5 @@ In this STATA do file you can find the code of an entire event study analysis th
 - Use obtained residuals to build Empirical Model (GARCH(1/1) & ARCH(1/1))
 - Obtain test statistics to test the hypothesis with KS-test (part of the Kolmogorov-Smirnov test)
 
+File name: EventStudy.do
+Programming Language: STATA
