@@ -1,5 +1,7 @@
 # Econometrics
 
+# Linear Regression Analysis
+
 # Event Study Analysis
 
 File name: EventStudy.do
