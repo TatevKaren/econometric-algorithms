@@ -14,12 +14,17 @@ Publications:
 - Kaya U., Neşe. G. (2013). A Study on Multiple Linear Regression Analysis. 1016(106): 234–240
 
 
-# Event Study Analysis
+# Event Study Analysis 
 
-File name: EventStudy.do
+File name: EventStudy.do, EventStudy.py
 
-Programming Language: STATA
+Programming Language: STATA, Python
 
+Event studies examine the behavior of firms’ stock prices around corporate events. event
+studies focusing on announcement effects for a short-horizon around an event provide evidence
+relevant for understanding corporate policy decisions.
+Event studies also serve an important purpose in capital market research as a way of
+testing market efficiency. 
 In this STATA do file you can find the code of an entire event study analysis that investigates the impact of external event on (e.g. Trump Tweets) on the stock prices, where for the stock prices "daily" data frequency has been considered and for the event window intervals of [-100, 100] days & [-250, 250] days have been considered. The analysis contains stock prices for 45 unique company's. Per company we have run OLS regression where company's return has been regressed on the market return and event date. The do file consists of the following parts:
 
 - Running OLS regressions for 45 companies
@@ -27,18 +32,13 @@ In this STATA do file you can find the code of an entire event study analysis th
 - Use obtained residuals to build Empirical Model (GARCH(1/1) & ARCH(1/1))
 - Obtain test statistics to test the hypothesis with KS-test (part of the Kolmogorov-Smirnov test)
 
-File name: EventStudy.py
-Programming Language: Python
-
-Continuation of the STATA part of the analysis. The python file consists of the following parts:
-
+ The python file consists of the following parts:
 - Obtaining Heteroskedasticity-consistent covariance matrix estimator
 - Running another set of OLS regressions
 - Obtain test statistics to test the hypothesis with KS-test 
-- Determine the p-value of the test
 
 Publications:
 
-- 
+- Coutts, A. J., Terence, C., Roberts, J., (1994). "The market model and the event study method: A synthesis of the econometric criticisms" International Review of Financial Analysis,3(2): 149-171
 
 
