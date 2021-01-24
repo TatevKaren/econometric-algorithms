@@ -1,6 +1,6 @@
 # Econometrics
 
-# Linear Regression Analysis
+# 1:Linear Regression Analysis
 
 File name: MultipleLinearRegression_OLS.py, MultipleLinearRegression_example.ipynb
 
@@ -14,7 +14,7 @@ Publications:
 - Kaya U., Neşe. G. (2013). A Study on Multiple Linear Regression Analysis. 1016(106): 234–240
 
 
-# Event Study Analysis 
+# 2:Event Study Analysis 
 
 File name: EventStudy.do, EventStudy.py
 
@@ -42,3 +42,5 @@ Publications:
 - Coutts, A. J., Terence, C., Roberts, J., (1994). "The market model and the event study method: A synthesis of the econometric criticisms" International Review of Financial Analysis,3(2): 149-171
 
 
+# 3: Fixed Effects Regression for Panel Data 
+# 4: Random Effects Regression for Panel Data 
