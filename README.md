@@ -1,6 +1,6 @@
 # Econometrics
 
-# 1:Linear Regression Analysis
+# 1: Linear Regression Analysis
 
 File name: MultipleLinearRegression_OLS.py, MultipleLinearRegression_example.ipynb
 
@@ -14,7 +14,7 @@ Publications:
 - Kaya U., Neşe. G. (2013). A Study on Multiple Linear Regression Analysis. 1016(106): 234–240
 
 
-# 2:Event Study Analysis 
+# 2: Event Study Analysis 
 
 File name: EventStudy.do, EventStudy.py
 
@@ -43,4 +43,10 @@ Publications:
 
 
 # 3: Fixed Effects Regression for Panel Data 
+Panel data allows you to control for variables you cannot observe or measure like cultural factors or difference in business practices across companies; or variables that change over time but not across entities (i.e. national policies, federal regulations, international agreements, etc.). This is, it accounts for individual heterogeneity. One of the techniques used to analyse Panel Data is Fixed Effects Model which exploits within-group variation over time. Across-group variation is not used to estimate the regression coefficients, because this variation might reflect omitted variable bias. When using FE we assume that something within the individual may impact or bias the predictor or outcome variables and we need to control for this. This is the motivation behind the assumption of the correlation between entity’s error term and predictor variables. FE removes the effect of those time-invariant characteristics so we can assess the net effect of the predictors on the outcome variable. Moreover, time-invariant characteristics are unique to the individual and should not be correlated with other individual characteristics.
+
+Publications:
+
+- Nwakuya, M.T., Ijomah, M. A., (2017). "Fixed Effect Versus Random Effects Modeling in a Panel Data Analysis; A Consideration of Economic and Political Indicators in Six African Countries". International Journal of Statistics and Applications 2017, 7(6): 275-279
+
 # 4: Random Effects Regression for Panel Data 
