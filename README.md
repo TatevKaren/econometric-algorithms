@@ -2,7 +2,7 @@
 
 # 1: Linear Regression Analysis
 
-File name: MultipleLinearRegression_OLS.py, MultipleLinearRegression_example.ipynb
+File name: OLS_regression.R, OLS_regression_usingMatrixAlgebra.R, MultipleLinearRegression_OLS.py, MultipleLinearRegression_example.ipynb
 
 Programming Language: Python, Jupiter Notebook
 
