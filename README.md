@@ -43,6 +43,8 @@ Publications:
 
 
 # 3: Fixed Effects Regression for Panel Data 
+File name: EventStudy.do, EventStudy.py
+
 Panel data allows you to control for variables you cannot observe or measure like cultural factors or difference in business practices across companies; or variables that change over time but not across entities (i.e. national policies, federal regulations, international agreements, etc.). This is, it accounts for individual heterogeneity. One of the techniques used to analyse Panel Data is Fixed Effects Model which exploits within-group variation over time. Across-group variation is not used to estimate the regression coefficients, because this variation might reflect omitted variable bias. When using FE we assume that something within the individual may impact or bias the predictor or outcome variables and we need to control for this. This is the motivation behind the assumption of the correlation between entity’s error term and predictor variables. FE removes the effect of those time-invariant characteristics so we can assess the net effect of the predictors on the outcome variable. Moreover, time-invariant characteristics are unique to the individual and should not be correlated with other individual characteristics.
 
 Publications:
@@ -50,3 +52,10 @@ Publications:
 - Nwakuya, M.T., Ijomah, M. A., (2017). "Fixed Effect Versus Random Effects Modeling in a Panel Data Analysis; A Consideration of Economic and Political Indicators in Six African Countries". International Journal of Statistics and Applications 2017, 7(6): 275-279
 
 # 4: Random Effects Regression for Panel Data 
+File name: EventStudy.do, EventStudy.py
+
+Another technique used to analyse Panel Data is Random Effects Model which exploits between-group variation over time. Random effects are estimated with partial pooling, while fixed effects are not. Partial pooling means that, if you have few data points in a group, the group's effect estimate will be based partially on the more abundant data from other groups. Random effects are simply the extension of the partial pooling technique as a general-purpose statistical model. This enables principled application of the idea to a wide variety of situations, including multiple predictors, mixed continuous and categorical variables, and complex correlation structures. The main assumption made in RE is that the deviations of subgroups from a parent follow the distribution of a random variable. 
+
+Publications:
+
+- Gurka, M. & Kelley, G. and Edwards, L., (2012)." Fixed and random effects models". Wiley Interdisciplinary Reviews: Computational Statistics. 4(10) 
