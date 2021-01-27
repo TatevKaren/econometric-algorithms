@@ -59,3 +59,8 @@ Another technique used to analyse Panel Data is Random Effects Model which explo
 Publications: 
 
 - Gurka, M. & Kelley, G. and Edwards, L., (2012)." Fixed and random effects models". Wiley Interdisciplinary Reviews: Computational Statistics. 4(10) 
+
+
+# 5: Hausman-Wu Test
+File name: HausmanWu_test.do
+
