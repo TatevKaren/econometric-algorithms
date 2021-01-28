@@ -68,4 +68,8 @@ The (Durbin-Wu-)Hausman (1978) test (also called as the Hausman specification te
 
 Publications:
 
-- Bell, A., Fairbrother, M. and Jones, K., (2018). "Fixed and random effects models: making an informed choice". Qual Quant. 53(2019):1051–1074.
+- Bell, A., Fairbrother, M. and Jones, K., (2018). "Fixed and random effects models: making an informed choice". Qual Quant. 53(2019):1051–1074
+
+
+# 6: Data Preparation for Regression Analysis 
+File name: DataPreparation_LinearRegression.do
