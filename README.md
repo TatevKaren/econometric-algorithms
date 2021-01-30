@@ -70,6 +70,14 @@ Publications:
 
 - Bell, A., Fairbrother, M. and Jones, K., (2018). "Fixed and random effects models: making an informed choice". Qual Quant. 53(2019):1051–1074
 
+# 8: Heckman-2 Step method
+File name: Heckman_2_Step_method.do
 
-# 6: Data Preparation for Regression Analysis 
+The Heckman-2 Steep method (often referred as Heckman Correction) is a statistical technique to solve the selection bias of in the data. correct bias from non-randomly selected samples, or to correct the incidentally truncated dependent variables. This is achieved by explicitly modelling the individual sampling probability of each observation (Step 1: Selection equation) together with the conditional expectation of the dependent variable (Step 2: Outcome equation). The resulting likelihood function is mathematically similar to the Tobit model for censored dependent variables.
+
+Publications:
+
+- Heckman, J. (1979). "Sample Selection Bias as a Specification Error". Econometrica. 47 (1): 153–61
+
+# 7: Data Preparation for Regression Analysis 
 File name: DataPreparation_LinearRegression.do
