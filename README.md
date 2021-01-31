@@ -81,5 +81,5 @@ Publications:
 
 # 9: Applied Econoometrics Case Study based on PCA, FF, and CCA
 
-# 7: Data Preparation for Regression Analysis 
+# 10: Data Preparation for Regression Analysis 
 File name: DataPreparation_LinearRegression.do
