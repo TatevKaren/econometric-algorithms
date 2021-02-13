@@ -79,7 +79,5 @@ Publications:
 
 - Heckman, J. (1979). "Sample Selection Bias as a Specification Error". Econometrica. 47 (1): 153–61
 
-# 9: Applied Econoometrics Case Study based on PCA, FF, and CCA
-
-# 10: Data Preparation for Regression Analysis 
+# 9: Data Preparation for Regression Analysis 
 File name: DataPreparation_LinearRegression.do
