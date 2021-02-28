@@ -13,6 +13,12 @@ Publications:
 - Kumari, K. and Yadav, S. (2018). Linear regression analysis study. 4101(4): 33
 - Kaya U., Neşe. G. (2013). A Study on Multiple Linear Regression Analysis. 1016(106): 234–240
 
+<p align="left">
+  <img src="https://github.com/TatevKaren/Mathematics-Statistics-for-Data-Science/blob/main/Multiple LR with Boston data2.png?raw=true"
+  alt="Linear Regression plot"
+  width="350" height="250">
+</p>
+
 
 # 2: Event Study Analysis 
 
