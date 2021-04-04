@@ -25,7 +25,8 @@ Publications:
 
 ## Event Study Analysis 
 
-File name: EventStudy.do, EventStudy.py
+- <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/EventStudy.do"> Event Study Analysis STATA Code </a>
+- <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/EventStudy_p2.py"> Event Study Analysis Python Code </a>
 
 Programming Language: STATA, Python
 
