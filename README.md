@@ -2,9 +2,13 @@
 
 ## Linear Regression Analysis
 
-Required Files: <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/OLS_regression.R"> OLS Regression R Code </a>, OLS_regression_usingMatrixAlgebra.R, MultipleLinearRegression_OLS.py, MultipleLinearRegression_example.ipynb
+Required Files: 
 
-Programming Language: Python, Jupiter Notebook
+- <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/OLS_regression.R"> OLS Regression R Code </a>
+- <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/OLS_regression_usingMatrixAlgebra.R"> OLS Regression Using Matrix Algebra R Code </a>
+- <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/MultipleLinearRegression_OLS.py"> Multiple Linear Regression OLS Pythoon Code </a>
+
+Programming Language: Python, R
 
 Linear regression is a linear approach to model the relationship between a scalar response (dependent varaible) and one or more explanatory variables (independent variables). The case of having single explanatory variable, the method is referred as simple linear regression. In case of having multiple explanatory variablea, the method is referred as multiple linear regression. Ordinary least squares (OLS) is a type of linear least squares method for estimating the unknown parameters in a linear regression model. OLS chooses the parameters of a linear function of a set of explanatory variables by using the principle of least squares that minimizes the sum of the squares of the residuals" (differences between the observed dependent variable and those predicted by the linear function). The method is largely applied in Econometrics, Finance, Data Science and other subject areas. 
 
