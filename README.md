@@ -74,7 +74,7 @@ Publications:
 
 
 ## Hausman-Wu Test
-File name: HausmanWu_test.do
+- <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/HausmanWu_test.do"> Hausman Wu Statistical/Econometrical Test STATA Code </a>
 
 The (Durbin-Wu-)Hausman (1978) test (also called as the Hausman specification test)in general detect endogenous regressors (explainatory variables) in regression model. Endogenous variables have values that are determined by other variables in the system. In panel data analysis, the Hausman test can help to choose between FE model and RE model. Under the null hypothesis the prefered model is RE model and under the alternative hypothesis the model FE is preferred. This test looks to see if there is a correlation between the unique (time-invariant) erros and the regressors in the model. The null hypothesis is that there is no correlation between the two.
 
