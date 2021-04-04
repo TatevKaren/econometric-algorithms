@@ -92,4 +92,16 @@ Publications:
 - Heckman, J. (1979). "Sample Selection Bias as a Specification Error". Econometrica. 47 (1): 153–61
 
 ## Data Preparation for Regression Analysis 
-File name: DataPreparation_LinearRegression.do
+- <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/DataPreparation_LinearRegression.do"> Data Prparation in STATA, Code </a>
+
+File includes the following operations: 
+
+- Generating varaible 
+- Generating categorical varaible 
+- Generating dummy varaible 
+- Generating interaction varaible 
+- Rename a variable 
+- Showing all possible values of the variable 
+- Drop a variable 
+- Drop all the observations with missing value 
+- Give a label to a variable that describes the variable 
