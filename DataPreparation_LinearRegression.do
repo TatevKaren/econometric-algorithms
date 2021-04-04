@@ -33,5 +33,5 @@ label variable female "dummy: takes value 1 when female and 0 when male"
 * generating index that is unique per other varaible's unique value *
 encode index, gen(companiesid)
 
-* describing the data: Discriptive Statistics *
+* describing the data: Descriptive Statistics *
 summarize
