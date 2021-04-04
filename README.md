@@ -83,7 +83,6 @@ Publications:
 - Bell, A., Fairbrother, M. and Jones, K., (2018). "Fixed and random effects models: making an informed choice". Qual Quant. 53(2019):1051–1074
 
 ## Heckman-2 Step
-File name: Heckman_2_Step_method.do
 - <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/AdvancedEconometrics.do"> Heckman-2-Step Sample Bias Test STATA Code </a>
 
 The Heckman-2 Step method (often referred as Heckman Correction) is a statistical technique to solve the selection bias of in the data. correct bias from non-randomly selected samples, or to correct the incidentally truncated dependent variables. This is achieved by explicitly modelling the individual sampling probability of each observation (Step 1: Selection equation) together with the conditional expectation of the dependent variable (Step 2: Outcome equation). The resulting likelihood function is mathematically similar to the Tobit model for censored dependent variables.
