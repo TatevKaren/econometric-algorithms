@@ -2,7 +2,7 @@
 
 ## Linear Regression Analysis
 
-File name: OLS_regression.R, OLS_regression_usingMatrixAlgebra.R, MultipleLinearRegression_OLS.py, MultipleLinearRegression_example.ipynb
+Required Files: <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/OLS_regression.R"> OLS Regression R Code </a>, OLS_regression_usingMatrixAlgebra.R, MultipleLinearRegression_OLS.py, MultipleLinearRegression_example.ipynb
 
 Programming Language: Python, Jupiter Notebook
 
