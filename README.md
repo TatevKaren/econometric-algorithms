@@ -6,7 +6,7 @@ Required Files:
 
 - <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/OLS_regression.R"> OLS Regression R Code </a>
 - <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/OLS_regression_usingMatrixAlgebra.R"> OLS Regression Using Matrix Algebra R Code </a>
-- <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/MultipleLinearRegression_OLS.py"> Multiple Linear Regression OLS Pythoon Code </a>
+- <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/MultipleLinearRegression_OLS.py"> Multiple Linear Regression OLS Python Code </a>
 
 Programming Language: Python, R
 
