@@ -96,7 +96,7 @@ Publications:
 
 File includes the following operations: 
 
-- Generating varaible 
+- Generating variable 
 - Generating categorical varaible 
 - Generating dummy varaible 
 - Generating interaction varaible 
