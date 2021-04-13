@@ -1,6 +1,4 @@
-# Econometrics
-
-## Linear Regression Analysis
+# Linear Regression Analysis
 
 Required Files: 
 
@@ -23,7 +21,7 @@ Publications:
   width="350" height="250">
 </p>
 
-## Event Study Analysis 
+# Event Study Analysis 
 
 - <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/EventStudy.do"> Event Study Analysis STATA Code </a>
 - <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/EventStudy_p2.py"> Event Study Analysis Python Code </a>
@@ -52,7 +50,7 @@ Publications:
 - Coutts, A. J., Terence, C., Roberts, J., (1994). "The market model and the event study method: A synthesis of the econometric criticisms" International Review of Financial Analysis,3(2): 149-171
 
 
-## Fixed Effects Regression for Panel Data 
+# Fixed Effects Regression for Panel Data 
 
 - <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/FixedEffects_Regression.do"> Fixed Effects Regression STATA Code </a>
 
@@ -62,7 +60,7 @@ Publications:
 
 - Nwakuya, M.T., Ijomah, M. A., (2017). "Fixed Effect Versus Random Effects Modeling in a Panel Data Analysis; A Consideration of Economic and Political Indicators in Six African Countries". International Journal of Statistics and Applications 2017, 7(6): 275-279
 
-## Random Effects Regression for Panel Data 
+# Random Effects Regression for Panel Data 
 
 - <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/RandomEffects_Regression.do"> Random Effects Regression STATA Code </a>
 
@@ -73,7 +71,7 @@ Publications:
 - Gurka, M. & Kelley, G. and Edwards, L., (2012)." Fixed and random effects models". Wiley Interdisciplinary Reviews: Computational Statistics. 4(10) 
 
 
-## Hausman-Wu Test
+# Hausman-Wu Test
 - <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/HausmanWu_test.do"> Hausman Wu Statistical/Econometrical Test STATA Code </a>
 
 The (Durbin-Wu-)Hausman (1978) test (also called as the Hausman specification test)in general detect endogenous regressors (explainatory variables) in regression model. Endogenous variables have values that are determined by other variables in the system. In panel data analysis, the Hausman test can help to choose between FE model and RE model. Under the null hypothesis the prefered model is RE model and under the alternative hypothesis the model FE is preferred. This test looks to see if there is a correlation between the unique (time-invariant) erros and the regressors in the model. The null hypothesis is that there is no correlation between the two.
@@ -82,7 +80,7 @@ Publications:
 
 - Bell, A., Fairbrother, M. and Jones, K., (2018). "Fixed and random effects models: making an informed choice". Qual Quant. 53(2019):1051–1074
 
-## Heckman-2 Step
+# Heckman-2 Step
 - <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/AdvancedEconometrics.do"> Heckman-2-Step Sample Bias Test STATA Code </a>
 
 The Heckman-2 Step method (often referred as Heckman Correction) is a statistical technique to solve the selection bias of in the data. correct bias from non-randomly selected samples, or to correct the incidentally truncated dependent variables. This is achieved by explicitly modelling the individual sampling probability of each observation (Step 1: Selection equation) together with the conditional expectation of the dependent variable (Step 2: Outcome equation). The resulting likelihood function is mathematically similar to the Tobit model for censored dependent variables.
@@ -91,7 +89,7 @@ Publications:
 
 - Heckman, J. (1979). "Sample Selection Bias as a Specification Error". Econometrica. 47 (1): 153–61
 
-## Data Preparation for Regression Analysis 
+# Data Preparation for Regression Analysis 
 - <a href = "https://github.com/TatevKaren/econometric-algorithms/blob/main/DataPreparation_LinearRegression.do"> Data Preparation in STATA, Code </a>
 
 File includes the following operations: 
