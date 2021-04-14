@@ -1,7 +1,7 @@
 <p align="left">
   <img src="https://miro.medium.com/max/988/1*dhwZ3Xq6qJwNKB_H4Sf2YA.png?raw=true"
   alt="Linear Regression plot"
-  width="1000" height="450">
+  width="1000" height="500">
 </p>
 
 
