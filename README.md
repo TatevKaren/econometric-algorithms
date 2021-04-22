@@ -44,10 +44,10 @@ In this STATA do file you can find the code of an entire event study analysis th
 
 - Running OLS regressions for 45 companies
 - Predicting residuals of the OLS model
-- Use obtained residuals to build Empirical Model (GARCH(1/1) & ARCH(1/1))
-- Obtain test statistics to test the hypothesis with KS-test (part of the Kolmogorov-Smirnov test)
+- Using obtained residuals to build Empirical Model (GARCH(1/1) & ARCH(1/1))
+- Obtaining test statistics to test the hypothesis with KS-test (Kolmogorov-Smirnov test)
 
- The python file consists of the following parts:
+The python file consists of the following parts:
 - Obtaining Heteroskedasticity-consistent covariance matrix estimator
 - Running another set of OLS regressions
 - Obtain test statistics to test the hypothesis with KS-test 
